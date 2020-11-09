@@ -26,15 +26,15 @@ The purpose of this analysis is to create data relationship diagrams, perform da
 ## Summary
 
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
- - As the "silver tsunami" begins to make an impact, **90,398 employees** across all departments will be getting ready to retire. There will be plenty of roles that need to be filled especially in upper managment. One thing this data suggests is to promote from within the company and allow lower level employees wot fill the rolls of seniors about to reitre and hire for entry level positions instead. It is advisable to do this since promoting from within ensures that those in high profile senior level positions can be trusted and are familiar with the company. 
+ - As the "silver tsunami" begins to make an impact, **90,398 employees** across all departments will be getting ready to retire. There will be plenty of roles that need to be filled especially in upper managment. One thing this data suggests is to promote from within the company and allow lower level employees to fill the rolls of seniors about to reitre and hire new people for entry level positions instead. It is advisable to do this since promoting from within ensures that those in high profile senior level positions can be trusted and are familiar with the company. 
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
- - Yes, there are about **1500 employees** who are eligible to particpate in the mentorship program. It would be advisable to pair up these employees who are almost ready to leave with people in the company who are looking for a promotion and are willing to learn more. This would also allow for the employees who are ready to retire to ease into the transition of being employed full time to nothing and allow for time for the company to look into replacing those roles. 
+ - Yes, there are about **1500 employees** who are eligible to particpate in the mentorship program. It would be advisable to pair up these employees who are almost ready to leave with people in the company who are looking for a promotion and are willing to learn more. This would also allow for the employees who are ready to retire to ease into the transition of being employed full time to retired and allow time for the company to look into replacing those roles. 
 
 An additional query that can be run would be to look closer at the salaries of those who are ready to retire soon in comparison of those who would likely be filling the spots. If the company wants to promote within, it would be advisable to ensure that the employees moving up will be getting paid fairly and have a similar salary to those who are leaving. 
 
 Another query that can be performed should be the average age of expected retirees. It could be helpful to see the age groups that are interested in retiring and compare it to their salaries. It might be expected that the higher the salary, the lower the expected retirement age or vice versa. Based on those results the company can put effort into finding out why people are retiring early or late and what that says about the company culture as a whole. 
 
 
-        Caroline O'Connell
-        November 8th, 2020
+    Caroline O'Connell
+    November 8th, 2020
